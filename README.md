@@ -1,0 +1,2 @@
+# libInterface
+Bibliothek für Schnittstellenprogrammierung
